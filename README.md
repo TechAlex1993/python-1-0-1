@@ -20,6 +20,10 @@ addition(7, 3) ➞ 10
 4. <img width="1142" height="637" alt="image" src="https://github.com/user-attachments/assets/e7303f80-cfda-493a-8534-9fda2793cc76" />
    <img width="1040" height="633" alt="image" src="https://github.com/user-attachments/assets/0f21a21b-a100-404f-98a0-174f58e146ce" />
 
+5.<img width="1267" height="600" alt="image" src="https://github.com/user-attachments/assets/45ca165e-653e-4600-bb40-a3f9c3dfaba2" />
+  <img width="1187" height="780" alt="image" src="https://github.com/user-attachments/assets/42ec2fc6-a044-4918-af61-c001c98675e7" />
+
+
 
 
 
