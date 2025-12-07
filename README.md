@@ -26,6 +26,13 @@ addition(7, 3) ➞ 10
 6. <img width="1242" height="855" alt="image" src="https://github.com/user-attachments/assets/2045b0da-04fc-494b-95c9-9fb145f88659" />
    <img width="1247" height="831" alt="image" src="https://github.com/user-attachments/assets/6d8d04e8-1c49-47ca-a5c8-005c82d6aa74" />
 
+7.<img width="572" height="607" alt="image" src="https://github.com/user-attachments/assets/80985091-942f-4fd0-8dae-a4f44ae5aa50" />
+  <img width="1137" height="497" alt="image" src="https://github.com/user-attachments/assets/84d8d4d3-c23a-47bc-980f-375d191e20fd" />
+  
+
+  
+
+
 
 
 
